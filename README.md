@@ -6,15 +6,6 @@
 
   
 
-  
-
--------------
-
-
-  
-  
-  
-
 Introduction:
 
 We’ve built an enterprise-level distributed Point-of-Sale System consisting of three separate applications:
@@ -115,16 +106,3 @@ Using the JUnit Framework, we’ve written tests to assert:
 
 - Input sanitization takes place so to not corrupt the database records. 
   
-
-Screenshots:
-
-Order Tracking:
-
-  
-  
-
-Sales Reporting Bar Charts
-
-  
-
-Inventory / Employee / Sale Management
