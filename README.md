@@ -1,8 +1,8 @@
 # Point-Of-Sale-System
 
-###Software Construction
+### Software Construction
 
-##ASSIGNMENT # 3
+## ASSIGNMENT # 3
 
   
 
